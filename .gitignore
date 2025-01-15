@@ -6,3 +6,9 @@ debug
 foo.*
 *.log
 data
+lazy-lock.json
+# Ignore local Neovim configuration files
+.nvim/
+.local/
+.cache/
+.session.vim
