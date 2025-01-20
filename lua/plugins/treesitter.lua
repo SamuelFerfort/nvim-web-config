@@ -6,9 +6,6 @@ return {
       "javascript",
       "html",
       "css",
-      "json",
-      "markdown",
-      "markdown_inline",
       "tsx",
       "yaml",
     })
